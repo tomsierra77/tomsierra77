@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Tomas!</h1>
 
-<!--
-**tomsierra77/tomsierra77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Data Analyst Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>EDA and Machine learning with Python</b>
+  - [Exploratory analysis and credit card approval system based on machine learning](https://github.com/tomsierra77/Credit_card_project)
+  - [EDA and machine learning techniques were applied to predict the value in millions of euros of the players](https://github.com/tomsierra77/Fifa_21_project) 
+- <b>Power BI</b>
+  - [Interactive report for business intelligence](https://github.com/tomsierra77/Adventure_report_power_BI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Tomas Sierra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/tomas-sierra-cano-067409261/
+
