@@ -8,6 +8,7 @@
 - <b>Power BI</b>
   - [Interactive report for business intelligence 1](https://github.com/tomsierra77/Adventure_report_power_BI)
   - [Interactive report for business intelligence 2](https://github.com/tomsierra77/Pizza_report_Power_BI)
+  - [Interactive report for business intelligence 3](https://github.com/tomsierra77/Call_center_project/)
 
 <h2> 🤳 Connect with me:</h2>
 
