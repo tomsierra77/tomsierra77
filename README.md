@@ -18,9 +18,3 @@
 [<img align="left" alt="Tomas Sierra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/tomas-sierra-data-analyst/
-
-<h2>
-  [Kaggle]: https://www.kaggle.com/tomsierra777
-  [Email]: tasierrac@unal.edu.co
-</h2>
-
