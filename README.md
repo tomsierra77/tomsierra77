@@ -4,7 +4,8 @@
 
 - <b>EDA and Machine learning with Python</b>
   - [Exploratory analysis and credit card approval system based on machine learning](https://github.com/tomsierra77/Credit_card_project)
-  - [EDA and machine learning techniques were applied to predict the value in millions of euros of the players](https://github.com/tomsierra77/Fifa_21_project) 
+  - [EDA and machine learning techniques were applied to predict the value in millions of euros of the players](https://github.com/tomsierra77/Fifa_21_project)
+  - [EDA and machine learning with Python applied to Amazon sales Dataset](https://github.com/tomsierra77/Amazon_sales_project)
 - <b>Power BI</b>
   - [Interactive report - Aventure Work](https://github.com/tomsierra77/Adventure_report_power_BI)
   - [Interactive report - Pizza Store](https://github.com/tomsierra77/Pizza_report_Power_BI)
