@@ -6,9 +6,9 @@
   - [Exploratory analysis and credit card approval system based on machine learning](https://github.com/tomsierra77/Credit_card_project)
   - [EDA and machine learning techniques were applied to predict the value in millions of euros of the players](https://github.com/tomsierra77/Fifa_21_project) 
 - <b>Power BI</b>
-  - [Interactive report for business intelligence 1](https://github.com/tomsierra77/Adventure_report_power_BI)
-  - [Interactive report for business intelligence 2](https://github.com/tomsierra77/Pizza_report_Power_BI)
-  - [Interactive report for business intelligence 3](https://github.com/tomsierra77/Call_center_project/)
+  - [Interactive report - Aventure Work](https://github.com/tomsierra77/Adventure_report_power_BI)
+  - [Interactive report - Pizza Store](https://github.com/tomsierra77/Pizza_report_Power_BI)
+  - [Interactive report - Call Center](https://github.com/tomsierra77/Call_center_project/)
 
 <h2> 🤳 Connect with me:</h2>
 
