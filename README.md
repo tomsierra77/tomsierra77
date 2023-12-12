@@ -12,11 +12,13 @@
   - [Interactive report - Pizza Store](https://github.com/tomsierra77/Pizza_report_Power_BI)
   - [Interactive report - Call Center](https://github.com/tomsierra77/Call_center_project/)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me: 
+  [Kaggle]: https://www.kaggle.com/tomsierra777
+  [Email]: tasierrac@unal.edu.co
+</h2>
 
 [<img align="left" alt="Tomas Sierra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/tomas-sierra-data-analyst/
-[Kaggle]: https://www.kaggle.com/tomsierra777
-[Email]: tasierrac@unal.edu.co
+
 
